@@ -1,0 +1,12 @@
+<!-- radiator.svg — plan view: ribbed panel -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130 44" role="img" aria-label="Radiator">
+  <rect id="panel" x="6" y="8" width="118" height="28" rx="4" fill="#ffffff" stroke="currentColor" stroke-width="3"/>
+  <g id="fins" fill="none" stroke="currentColor" stroke-width="2" opacity="0.85">
+    <line x1="22" y1="12" x2="22" y2="32"/>
+    <line x1="38" y1="12" x2="38" y2="32"/>
+    <line x1="54" y1="12" x2="54" y2="32"/>
+    <line x1="70" y1="12" x2="70" y2="32"/>
+    <line x1="86" y1="12" x2="86" y2="32"/>
+    <line x1="102" y1="12" x2="102" y2="32"/>
+  </g>
+</svg>
