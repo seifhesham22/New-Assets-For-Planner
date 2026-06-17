@@ -1,0 +1,9 @@
+<!-- door.svg — architectural plan view: jambs + swinging leaf + swing arc -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Door">
+  <g fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round">
+    <line id="hinge-jamb" x1="8"  y1="6"  x2="8"  y2="18"/>
+    <line id="latch-jamb" x1="88" y1="6"  x2="88" y2="18"/>
+    <line id="leaf"       x1="8"  y1="12" x2="8"  y2="92"/>
+    <path id="swing"      d="M88 12 A80 80 0 0 1 8 92" stroke-width="2" stroke-dasharray="6 5"/>
+  </g>
+</svg>
